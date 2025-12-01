@@ -1,56 +1,57 @@
-# TheFourthMusketeer
+# HERMES – Project Documentation
 
-# 🕹️ Korku Oyunu Projesi
+## 1. Overview
+Hermes is a first-person 3D game project developed with Unreal Engine 5. The game focuses on atmospheric exploration, narrative tension, and chase-based gameplay elements. Set within the ruins of an ancient civilization, the player assumes the role of a designated “Bearer” who must navigate hostile environments while uncovering hidden lore and solving environmental challenges.
 
-Bu GitHub reposu, 4 kişilik ekip olarak geliştirdiğimiz **Unreal Engine tabanlı bir birinci şahıs korku oyunu** projesine aittir. Oyun PC platformu için geliştirilmektedir ve proje boyunca oyun içeriğiyle ilgili tüm dosyalar burada paylaşılacaktır.
-
----
-
-## 📁 Proje İçeriği
-
-Bu repoda aşağıdaki dosya ve klasörleri bulabilirsiniz:
-
-- `Unreal/` – Unreal Engine proje dosyaları (`.uproject`, `.uasset`, `.umap`)
-- `Art/`
-  - `Blender/` – 3D modellerin Blender dosyaları (`.blend`)
-  - `Textures/` – PNG, JPEG gibi görsel içerikler
-- `Docs/` – Sunumlar (`.pptx`), belgeler (`.pdf`, `.txt`)
-- `README.md` – Bu bilgilendirme dosyası
+The project aims to deliver a visually immersive and mechanically cohesive gameplay experience through high-quality world-building, optimized systems, and interactive level design.
 
 ---
 
-## 👥 Ekip Üyeleri
-
-- **Furkan Yıldız** – Programmer, Level Designer, Game Designer
-- **Alp Hasan Secil** – Programmer, Animation, Storywriter, Project Manager
-- **Sevval Cagan** – 3D Art, Cinematics, UI Design, Documentation, Illustration
-- **Selinay Can** – 3D Art, Cinematics, UI Design, Audio Design, Animation
-
----
-
-## ⚙️ Geliştirme Bilgileri
-
-- **Oyun motoru:** Unreal Engine 5
-- **Kodlama:** Blueprint (Visual Scripting)
-- **Modelleme:** Blender
-- **Platform:** Windows PC
-- **Versiyon kontrol:** Git + GitHub
+## 2. Core Features
+- First-person exploration mechanics  
+- Tension-driven chase sequences  
+- Environmental narrative design  
+- Interactive objects and puzzle systems  
+- Dark, atmospheric visual style  
+- Blueprint-based gameplay logic  
 
 ---
 
-## 📌 Katkıda Bulunma Kuralları
-
-- Herkes kendi branch’inde çalışmalı.
-- `main` branch’e doğrudan commit yapılmamalıdır.
-- Yeni içerik ekleneceğinde **pull request** kullanılmalıdır.
-- Büyük dosyalar için Git LFS (Large File Storage) kullanılır.
-
----
-
-## 📦 Notlar
-
-Proje gelişme aşamasındadır. Bu repo sadece ekip içi dosya paylaşımı ve sürüm kontrolü içindir. Oyunun erken prototipleri ilerleyen zamanlarda paylaşılacaktır.
+## 3. Technology Stack
+- **Engine:** Unreal Engine 5  
+- **Scripting:** Blueprints  
+- **Version Control:** Git & GitHub  
+- **Platform:** Windows (PC)
 
 ---
 
-Teşekkürler! 🎮
+## 5. Development Status
+- Initial prototype for the main level completed  
+- Early chase system implemented  
+- Lighting and atmosphere setup in progress  
+- Puzzle system design phase ongoing  
+
+---
+
+## 6. Roadmap
+- [ ] Integrate updated character animations  
+- [ ] Implement final chase sequence  
+- [ ] Transition to an optimized lighting setup  
+- [ ] Build a collectible-based progression system  
+- [ ] Conduct performance testing and optimization  
+- [ ] Develop sound design and ambient audio layers  
+
+---
+
+## 7. Team
+**The Four Musketeers (4 Silahsörler)**  
+- **Yıldız (Furkan)** – Programmer / Gameplay Designer  
+- Additional members will be added as development progresses.
+
+---
+
+## 8. Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/furqny/Hermes.git
+
