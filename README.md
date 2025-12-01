@@ -34,19 +34,22 @@ The project aims to deliver a visually immersive and mechanically cohesive gamep
 ---
 
 ## 6. Roadmap
-- [ ] Integrate updated character animations  
-- [ ] Implement final chase sequence  
-- [ ] Transition to an optimized lighting setup  
-- [ ] Build a collectible-based progression system  
-- [ ] Conduct performance testing and optimization  
-- [ ] Develop sound design and ambient audio layers  
+-  Integrate updated character animations  
+-  Implement final chase sequence  
+-  Transition to an optimized lighting setup  
+-  Build a collectible-based progression system  
+-  Conduct performance testing and optimization  
+-  Develop sound design and ambient audio layers  
 
 ---
 
 ## 7. Team
 **The Four Musketeers (4 Silahsörler)**  
-- **Yıldız (Furkan)** – Programmer / Gameplay Designer  
-- Additional members will be added as development progresses.
+- **Furkan Yıldız:** – Programmer / Gameplay Designer  
+- **Sevval Cagan:** Project Manager, 2D / 3D Artist, Animation, Audio
+- **Selinay Can:** 3D Artist, Texture Design, UI Design
+- **Fatih Aslan:** 3D Artist, Texture Design, Animation
+- **Alp Hasan Secil:** 3D Artist, Programmer, Level Design, Animation
 
 ---
 
