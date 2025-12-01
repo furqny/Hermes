@@ -44,7 +44,7 @@ The project aims to deliver a visually immersive and mechanically cohesive gamep
 ---
 
 ## 7. Team
-**The Four Musketeers (4 Silahsörler)**  
+**Team Nyx**  
 - **Furkan Yıldız:** – Programmer / Gameplay Designer  
 - **Sevval Cagan:** Project Manager, 2D / 3D Artist, Animation, Audio
 - **Selinay Can:** 3D Artist, Texture Design, UI Design
